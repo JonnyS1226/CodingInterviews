@@ -3,7 +3,7 @@ package chapter2;
 import java.util.Stack;
 
 /**
- * 用两个栈模拟一个队列
+ * 09_用两个栈模拟一个队列
  *      实现队列的两个函数appendTail和deleteHead实现在队列尾部插入节点和在队列首部删除节点的功能
  */
 public class T09_QueueWithTwoStacks {

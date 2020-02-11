@@ -1,7 +1,7 @@
 package chapter2;
 
 /**
- * 不修改数组找出数组中重复的数字
+ * 03_2_不修改数组找出数组中重复的数字
  *      在一个长度为n+1的数组里的所有数字都在1-n的范围内，所以数组中至少有一个数字是重复的，找出这个重复的
  */
 public class T03_2_DuplicationArrayNoEdit {

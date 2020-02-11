@@ -3,7 +3,7 @@ package chapter2;
 import java.util.Scanner;
 
 /**
- * 二维数组的查找
+ * 04_二维数组的查找
  *      每一行从左向右递增，每一列从上向下递增，输入二维数组和一个整数，判断二维数组中是否含有该整数。
  */
 public class T04_FindInPartiallySortedMatrix {

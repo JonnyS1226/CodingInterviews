@@ -3,9 +3,9 @@ package chapter2;
 import java.util.Scanner;
 
 /**
- * 求斐波那契数列的第n项
+ * 10_求斐波那契数列的第n项
  */
-public class T10_01_Fibonacci {
+public class T10_Fibonacci {
 
     //方法1. 低效的递归法O(2^n)
     public static long fibonacci(int n)

@@ -3,7 +3,7 @@ package chapter2;
 import java.util.Stack;
 
 /**
- * 链表反置输出
+ * 06_链表反置输出
  */
 public class T06_PrintListInReverseOrder {
     //不带哨兵的链表结构

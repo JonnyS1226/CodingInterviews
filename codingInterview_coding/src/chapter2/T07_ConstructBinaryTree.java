@@ -1,7 +1,7 @@
 package chapter2;
 
 /**
- * 输入某二叉树的前序遍历和中序遍历的结果，来重构二叉树
+ * 07_输入某二叉树的前序遍历和中序遍历的结果，来重构二叉树
  */
 public class T07_ConstructBinaryTree {
     // 二叉树结点类

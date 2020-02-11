@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * 两个排序的数组A1和A2，A1末尾有足够多空余空间容纳A2，合并这两个数组，形成有序数组
+ * 05_2_两个排序的数组A1和A2，A1末尾有足够多空余空间容纳A2，合并这两个数组，形成有序数组
  */
 public class T05_2_TwoArrayMergeToOne {
 

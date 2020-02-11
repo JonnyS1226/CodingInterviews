@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Scanner;
 
 /**
- * 找出数组中重复的数字
+ * 03_1_找出数组中重复的数字
  */
 public class T03_1_DuplicationInArray {
 
