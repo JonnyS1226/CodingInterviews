@@ -21,6 +21,7 @@ public class T06_PrintListInReverseOrder {
     }
 
     //迭代反序输出
+    //使用栈
     public static void printListReverseIteratively(ListNode pHead){
         Stack<ListNode> stack = new Stack<>();
         ListNode tmp = pHead;
@@ -39,6 +40,7 @@ public class T06_PrintListInReverseOrder {
         }
     }
 
+    //使用递归
     public static void printListReverseRecursively(ListNode pHead){
         ListNode tmp = pHead;
         if (tmp != null)

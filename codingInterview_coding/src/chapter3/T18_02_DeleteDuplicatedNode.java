@@ -71,6 +71,10 @@ public class T18_02_DeleteDuplicatedNode {
         System.out.println();
     }
 
+
+
+
+
     public static void main(String[] args) {
         ListNode l1 = new ListNode(1);
         l1.addFirst(2);
