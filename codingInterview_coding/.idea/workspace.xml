@@ -34,45 +34,6 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager">
-    <configuration name="T43_NumberOf1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.T43_NumberOf1" />
-      <module name="codingInterview_coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T44_DigitsInSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.T44_DigitsInSequence" />
-      <module name="codingInterview_coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="T45_SortArrayForMinNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter5.T45_SortArrayForMinNumber" />
-      <module name="codingInterview_coding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="T50_FirstNotRepeatingChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter5.T50_FirstNotRepeatingChar" />
       <module name="codingInterview_coding" />
@@ -99,13 +60,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="T53_NumberOfK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.T53_NumberOfK" />
+      <module name="codingInterview_coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T57_TwoNumbersWithSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.T57_TwoNumbersWithSum" />
+      <module name="codingInterview_coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T58_ReverseWordsInSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6.T58_ReverseWordsInSentence" />
+      <module name="codingInterview_coding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T58_ReverseWordsInSentence" />
+        <item itemvalue="Application.T57_TwoNumbersWithSum" />
+        <item itemvalue="Application.T53_NumberOfK" />
         <item itemvalue="Application.T51_InversePairs" />
         <item itemvalue="Application.T50_FirstNotRepeatingChar" />
-        <item itemvalue="Application.T45_SortArrayForMinNumber" />
-        <item itemvalue="Application.T44_DigitsInSequence" />
-        <item itemvalue="Application.T43_NumberOf1" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +175,11 @@
       <workItem from="1582166077206" duration="6723000" />
       <workItem from="1582251875989" duration="13103000" />
       <workItem from="1582339166188" duration="3569000" />
+      <workItem from="1582423932586" duration="8918000" />
+      <workItem from="1582459847973" duration="642000" />
+      <workItem from="1582521391694" duration="6527000" />
+      <workItem from="1582547737166" duration="606000" />
+      <workItem from="1582601511739" duration="6892000" />
     </task>
     <servers />
   </component>
@@ -182,26 +187,26 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1582287984763">
+    <state x="549" y="171" key="FileChooserDialogImpl" timestamp="1582460412256">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582287984763" />
-    <state width="1493" height="145" key="GridCell.Tab.0.bottom" timestamp="1582376342791">
+    <state x="549" y="171" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1582460412256" />
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom" timestamp="1582547152366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582376342791" />
-    <state width="1493" height="145" key="GridCell.Tab.0.center" timestamp="1582376342791">
+    <state width="1493" height="145" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1582547152366" />
+    <state width="1493" height="145" key="GridCell.Tab.0.center" timestamp="1582547152366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582376342791" />
-    <state width="1493" height="145" key="GridCell.Tab.0.left" timestamp="1582376342791">
+    <state width="1493" height="145" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1582547152366" />
+    <state width="1493" height="145" key="GridCell.Tab.0.left" timestamp="1582547152366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582376342791" />
-    <state width="1493" height="145" key="GridCell.Tab.0.right" timestamp="1582376342791">
+    <state width="1493" height="145" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1582547152366" />
+    <state width="1493" height="145" key="GridCell.Tab.0.right" timestamp="1582547152366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582376342791" />
+    <state width="1493" height="145" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1582547152366" />
     <state width="1493" height="252" key="GridCell.Tab.1.bottom" timestamp="1582117002613">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -218,21 +223,21 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="252" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1582117002613" />
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1582252379425">
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1582601529748">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582252379425" />
+    <state x="461" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1582601529748" />
     <state x="485" y="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580734784862">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="485" y="314" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1580734784862" />
-    <state x="178" y="29" key="new project wizard" timestamp="1580617230464">
+    <state x="178" y="29" key="new project wizard" timestamp="1582460450796">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580617230464" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582275460628">
+    <state x="178" y="29" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1582460450796" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1582427409486">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582275460628" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1582427409486" />
   </component>
 </project>
