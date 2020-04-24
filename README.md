@@ -169,7 +169,7 @@
 #### 正则匹配和形式语言与自动机
 
 1. [T19](/codingInterview_coding/src/chapter3)：正则表达式匹配
-2. [T20](/codingInterview_coding/src/chapter3)：表示数值的字符串       形式语言与自动机
+2. [T20](/codingInterview_coding/src/chapter3)：表示数值的字符串       也可以使用自动机的理论完成
 
 #### 特殊规律和数学题
 
